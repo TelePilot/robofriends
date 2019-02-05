@@ -6,7 +6,6 @@ class Header extends Component {
     return false
   }
   render() {
-    console.log('Header')
     return (
       <div>
 
